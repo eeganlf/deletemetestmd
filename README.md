@@ -8,7 +8,20 @@ There are several Kubernetes installation tools provided by various
 vendors. In this lab we will learn to use \*\*kubeadm\*\*. As a
 community-supported independent tool, it is planned to become the
 primary manner to build a Kubernetes cluster.
-[!IMPORTANT] 
+> [!NOTE]  
+> Highlights information that users should take into account, even when skimming.
+
+> [!TIP]
+> Optional information to help a user be more successful.
+
+> [!IMPORTANT]  
+> Crucial information necessary for users to succeed.
+
+> [!WARNING]  
+> Critical content demanding immediate user attention due to potential risks.
+
+> [!CAUTION]
+> Negative potential consequences of an action.
 > **Info:** The labs were written using \*\*Ubuntu 24.04\*\*
 > instances running on \*\*G\*\*oogle \*\*C\*\*loud \*\*P\*\*latform
 > (\*\*GCP\*\*). They have been written to be vendor-agnostic so could
